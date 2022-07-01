@@ -18,10 +18,10 @@ class MyApp extends StatelessWidget {
               CircleAvatar(
                 radius: 50,
                 backgroundImage: NetworkImage(
-                    'https://avatars0.githubusercontent.com/u/32702872?s=460&u=7f1b14aec4d42e6db76d6900649779eaa8c35c75&v=4'),
+                    'https://yt3.ggpht.com/ytc/AKedOLRt1d4p7bPylasq_66BIC8-k3hkyVjJ2JICQITK=s900-c-k-c0x00ffffff-no-rj'),
               ),
               Text(
-                'Hugo Courthias',
+                'Aditya Sharma',
                 style: TextStyle(
                     fontSize: 40,
                     color: Colors.white,
@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
                 height: 10,
               ),
               Text(
-                'MOBILE DEVELOPER',
+                'FLUTTER DEVELOPER',
                 style: TextStyle(
                     fontSize: 20,
                     color: Colors.white.withOpacity(0.8),
